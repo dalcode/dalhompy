@@ -3,7 +3,7 @@
     "description": "Simple Website Builder",
     "keywords": ["website","homepage"],
     "license": "MIT",
-    "type": "library",
+    "type": "project",
     "require": {
         "php": ">=5.3.0"
     }
